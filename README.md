@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey there!
 
-<!--
-**SreenityaThatikunta/SreenityaThatikunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sreenitya, a Computer Science undergraduate at IIT Jodhpur.
 
-Here are some ideas to get you started:
+I like to build stuff - mostly full stack apps - and I really enjoy making small, fun projects that feel lightweight but useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I usually build:
+- End-to-end web apps
+- Small side projects just for fun
+- Interactive tools and mini-products like photobooths, productivity tools, meme search engines, and other experiments
+
+My main tech stack is:
+- TypeScript
+- React
+- Node.js
+
+I enjoy working on ideas that are simple, playful, and fast to ship. If something sounds fun, I’ll probably try to build it.
+
+Fun facts:
+- I like coffee
+- I love sleeping
+- Big fan of bedrotting and watching TV
+
+Most of my repositories are experiments, side projects, or things I wanted to try out. Feel free to explore.
