@@ -31,4 +31,4 @@ I’m interested in **agentic systems, full-stack product engineering, and AI th
 
 Most things here began as *“this would be cool”* and escalated into a repository.
 
-[portfolio](https://portfolio-sreenitya.vercel.app/) · [linkedin](https://www.linkedin.com/in/sreenitya-thatikunta-b16a8a287)
+[portfolio](https://sreenitya.in) · [linkedin](https://www.linkedin.com/in/sreenitya-thatikunta-b16a8a287)
