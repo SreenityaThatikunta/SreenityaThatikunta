@@ -2,7 +2,7 @@
 
 CS undergrad at IIT Jodhpur. I like turning half-baked ideas into things that actually work.
 
-I’m interested in **agentic systems, full-stack product engineering, and AI that actually does something** — beyond another chat interface.
+I’m interested in **agentic systems, full-stack software engineering, and AI that actually does something** — beyond another chat interface.
 
 ### current rabbit holes
 
